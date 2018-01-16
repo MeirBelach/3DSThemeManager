@@ -1,6 +1,8 @@
 # 3DSThemeManager3DS
 
 
+** You must have your own themes. It is just a manager to help keep them organized on the computer.**
+
 Created by: Meir
 
 Version: 1.0.0.0
