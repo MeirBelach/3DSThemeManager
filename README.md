@@ -14,18 +14,18 @@ This product works to create zip files that can be used by Anemone 3DS Theme Man
 Folder Structure Exapmle:
 
 ```bash
-.
-├── ThemeDirectory1
-│   ├── bgm.bcstm
-│   ├── body_LZ.bin
-│   ├── info.smdh
-│   └── Preview.png
-│
-├── ThemeDirectory2
-│   ├── bgm.bcstm
-│   ├── body_LZ.bin
-│   ├── info.smdh
-└── └── Preview.png                               
+Root Directory
+             ├── ThemeDirectory1
+             │   ├── bgm.bcstm
+             │   ├── body_LZ.bin
+             │   ├── info.smdh
+             │   └── Preview.png
+             │
+             ├── ThemeDirectory2
+             │   ├── bgm.bcstm
+             │   ├── body_LZ.bin
+             │   ├── info.smdh
+             └── └── Preview.png                               
 ```
 
 I do not own the related Images or Software that is mentioned or included in this software!!!
