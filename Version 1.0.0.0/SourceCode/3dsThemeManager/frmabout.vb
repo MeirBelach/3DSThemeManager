@@ -1,0 +1,53 @@
+﻿Public Class frmabout
+    Private Sub frmabout_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim Line01 As String = "3DS Theme Manager"
+        Dim Line02 = vbNewLine
+        Dim Line03 = vbNewLine
+        Dim Line04 = vbNewLine
+        Dim Line05 = "Created by: " & My.Application.Info.CompanyName
+        Dim Line06 = vbNewLine
+        Dim Line07 = vbNewLine
+        Dim Line08 = "Version: " & My.Application.Info.Version.ToString
+        Dim Line09 = vbNewLine
+        Dim Line10 = vbNewLine
+        Dim Line11 = "**This is an open source project and can be used by anyone and spread around.**"
+        Dim Line12 = vbNewLine
+        Dim Line13 = vbNewLine
+        Dim Line14 = "This product works to create zip files that can be used by Anemone 3DS Theme Manager."
+        Dim Line15 = vbNewLine
+        Dim Line16 = vbNewLine
+        Dim Line17 = vbNewLine
+        Dim Line18 = vbNewLine
+        Dim Line19 = "Folder Structure Exapmle:"
+        Dim Line20 = vbNewLine
+        Dim Line21 = vbNewLine
+        Dim Line22 = vbNewLine
+        Dim Line23 = "Root Directory"
+        Dim Line24 = vbNewLine
+        Dim Line25 = "              |-  ThemeDirectory1"
+        Dim Line26 = vbNewLine
+        Dim Line27 = "                               |- bgm.bcstm"
+        Dim Line28 = vbNewLine
+        Dim Line29 = "                               |- body_LZ.bin"
+        Dim Line30 = vbNewLine
+        Dim Line31 = "                               |- info.smdh"
+        Dim Line32 = vbNewLine
+        Dim Line33 = "                               |- Preview.png"
+        Dim Line34 = vbNewLine
+        Dim Line35 = vbNewLine
+        Dim Line36 = "              |-  ThemeDirectory2"
+        Dim Line37 = vbNewLine
+        Dim Line38 = "                               |- bgm.bcstm"
+        Dim Line39 = vbNewLine
+        Dim Line40 = "                               |- body_LZ.bin"
+        Dim Line41 = vbNewLine
+        Dim Line42 = "                               |- info.smdh"
+        Dim Line43 = vbNewLine
+        Dim Line44 = "                               |- Preview.png"
+        Dim Line45 = vbNewLine
+        Dim Line46 = vbNewLine
+        Dim Line47 = vbNewLine
+        Dim Line48 = "I do not own the related Images or Software that is mentioned or included in this software!!!"
+        RichTextBox1.Text = Line01 & Line02 & Line03 & Line04 & Line05 & Line06 & Line07 & Line08 & Line09 & Line10 & Line11 & Line12 & Line13 & Line14 & Line15 & Line16 & Line17 & Line18 & Line19 & Line20 & Line21 & Line22 & Line23 & Line24 & Line25 & Line26 & Line27 & Line28 & Line29 & Line30 & Line31 & Line32 & Line33 & Line34 & Line35 & Line36 & Line37 & Line38 & Line39 & Line40 & Line41 & Line42 & Line43 & Line44 & Line45 & Line46 & Line47 & Line48
+    End Sub
+End Class
