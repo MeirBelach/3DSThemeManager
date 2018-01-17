@@ -5,7 +5,9 @@
 
 Created by: Meir
 
-Version: 1.0.0.0
+Version: 1.0.0.1
+
+Added the ability to play the bgm.ogg file.
 
 **This is an open source project and can be used by anyone and spread around.**
 
